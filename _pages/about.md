@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 I'm a third year undergraduate student from Northeastern University, majoring in computer science and technology. My research interest includes LLM, deep learning and so on.
-[Wechat](../images/wechat.png) 
+
+[Wechat](../images/Wechat.png) 
 
 A data-driven personal website
 ======
