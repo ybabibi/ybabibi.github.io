@@ -35,12 +35,18 @@ I’m honored to have received several awards in recognition of both my academic
 - 🌟 Outstanding Individual in Social Practice
     ![Second Prize in University-level Speech Contest](../images/shehuishijian.png)  
 - 🎓 National Endeavor Scholarship
+
+  [2023-2024]
    ![Second Prize in University-level Speech Contest](../images/lizhijiangxuejin.png)
+  [2022-2023]
 ![Second Prize in University-level Speech Contest](../images/lizhijiangxuejin2.png) 
 - 🥇 All-Round Excellent Student (Three-Good Student: Good Morality, Good Study, Good Health)
    ![Second Prize in University-level Speech Contest](../images/sanhoa.png)  
-- 🏅 Excellent Communist Youth League Member 
-  ![Second Prize in University-level Speech Contest](../images/youxiutuanyuan.png) 
+- 🏅 Excellent Communist Youth League Member
+  
+  [2022-2023]
+  ![Second Prize in University-level Speech Contest](../images/youxiutuanyuan.png)
+  [2023-2024]
   ![Second Prize in University-level Speech Contest](../images/youxiutuanyuan2.png) 
 
 
