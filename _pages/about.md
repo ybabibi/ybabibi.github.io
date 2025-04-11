@@ -51,6 +51,16 @@ I’m honored to have received several awards in recognition of both my academic
 
 
 
+## 🧠 Competitions
+
+I’ve actively participated in several mathematical modeling competitions at the regional and Asia-Pacific level, gaining valuable experience in teamwork, problem-solving, and data analysis. Highlights include:
+
+- 🥈 Second Prize (Chinese Section), Asia-Pacific Mathematical Modeling Competition
+  ![math modeling](../images/zhongwensaixiang.png)
+- 🥉 Third Prize, Asia-Pacific Mathematical Modeling Competition
+    ![math modeling](../images/yantai.png)
+- 🥉 Third Prize, MATHorcup Mathematical Modeling Contest (Regional Level)
+    ![math modeling](../images/mama.png)
 
 
 ## 🎤 Campus Life
