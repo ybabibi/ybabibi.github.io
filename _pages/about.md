@@ -53,11 +53,9 @@ Beyond academics, I actively participate in various extracurricular activities t
 
 - 🥈 Second Prize in University-level Speech Contest
   ![Second Prize in University-level Speech Contest](../images/speechuniversity.png)  
-- 🥈 Second Prize in University-level Recitation Contest
-   ![Second Prize in University-level Speech Contest](../images/langsong.png)  
 - 🥇 First Prize in University-level Speech Contest
    ![Second Prize in University-level Speech Contest](../images/yanjiang.png)  
 - 🥈 Second Prize in University-level Group Aerobics Competition
-   ![Second Prize in University-level Speech Contest](../images/jianmeicao.png)  
 
+- 🥈 Second Prize in University-level Recitation Contest
 
